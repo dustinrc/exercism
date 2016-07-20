@@ -6,7 +6,7 @@ import "time"
 
 const (
 	// Gigasecond is one billion seconds
-	Gigasecond time.Duration = time.Second * 1000000000
+	Gigasecond time.Duration = 1e9 * time.Second
 
 	testVersion = 4
 )

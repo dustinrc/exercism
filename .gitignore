@@ -6,6 +6,7 @@
 
 ##### custom #####
 **/build/
+**/.keep
 
 ### OSX ###
 *.DS_Store
